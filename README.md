@@ -1,6 +1,10 @@
 ## 👨‍💻 Hi, I'm Mahavir Goyal
 
-🚀 Software Engineer with **2+ years of experience** in designing scalable services, developing robust backends, and delivering API-centric solutions.
+🚀 **Software Engineer | Backend & Full-Stack Developer | Cloud & Automation Enthusiast**
+
+Innovative Software Engineer with **~2 years of experience** in building scalable backends, microservices, and API-driven applications. Skilled in Node.js, TypeScript, and Python, with hands-on experience in cloud deployments (Azure, AWS), containerization (Docker), and CI/CD pipelines (Jenkins). Passionate about optimizing workflows, automating processes, and delivering high-quality software solutions. Adept at turning complex requirements into elegant, efficient, and maintainable code, while fostering collaboration across cross-functional teams.
+
+Specialties include: Microservices architecture, RESTful API design, database optimization (MySQL, MongoDB, Redis), DevOps automation, and implementing AI-powered solutions for real-world applications.
 
 ---
 
@@ -19,26 +23,24 @@
 ### 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahavir-goyal-2b6866157/) 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mahavirgoyal32@gmail.com)
 
 ---
 
 ### 📁 My GitHub Stats:
 
-![your-username's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahavirgoyal32&show_icons=true&theme=dark)
+![Mahavir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahavirgoyal32&show_icons=true&theme=dark)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahavirgoyal32&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahavirgoyal32&layout=compact&theme=dark)
 
 ---
 
 ### 🏆 Trophies:
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=mahavirgoyal32)
+![Trophies](https://github-profile-trophy.vercel.app/?username=mahavirgoyal32&theme=dark)
 
 ---
 
 ### 📊 Activity:
 
-![Activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mahavirgoyal32&bg_color=000000&color=ffffff)
-
+![Contribution Graph](https://ghchart.rshah.org/mahavirgoyal32)
